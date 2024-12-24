@@ -1,1 +1,1 @@
-console.log('bhasha index');
+console.log('waqt index');

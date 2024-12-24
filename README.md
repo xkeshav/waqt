@@ -6,6 +6,8 @@ This is just displaying time in hindi month along with english
 
 and background color change every second
 
+live on >
+
 ## Screenshot  
 
 ![waqt](Waqt.png)

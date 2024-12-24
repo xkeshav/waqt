@@ -1,4 +1,6 @@
+paksha
 projectx
 samay
+tithi
 Waqt
 xkeshav
